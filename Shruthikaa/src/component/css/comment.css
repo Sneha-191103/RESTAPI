@@ -1,0 +1,27 @@
+.linechart{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+.lich{
+    padding:10px 10px ;
+    
+    box-shadow:2px 2px rgb(238, 238, 238);
+}
+.comA{
+    padding:20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.com{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding: 20px 20px 20px 20px;
+    box-shadow: 1px black;
+}
+
+.t1{
+    font-size: 20px;
+}
